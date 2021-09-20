@@ -1,6 +1,6 @@
-# SOPRA_Immo_Lyon
+# SOPRA Immobilier Lyon
 
-##L'entreprise
+## L'entreprise
 
 Intégrez un éditeur de logiciels français, spécialisé dans le domaine Immobilier, comptant près de 800 collaborateurs
 à travers la France.
